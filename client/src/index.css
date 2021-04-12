@@ -1,0 +1,17 @@
+body {
+  font-family: 'HK Grotesk Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'HK Grotesk Regular';
+  src: local('HK Grotesk Regular'), url(assets/fonts/hk-grotesk/HKGrotesk-Regular.otf) format('opentype');
+}
